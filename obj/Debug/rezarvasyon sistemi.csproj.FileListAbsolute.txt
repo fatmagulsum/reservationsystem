@@ -1,0 +1,10 @@
+C:\Users\Fatma Gülsüm\source\repos\rezarvasyon sistemi\rezarvasyon sistemi\bin\Debug\rezarvasyon sistemi.exe.config
+C:\Users\Fatma Gülsüm\source\repos\rezarvasyon sistemi\rezarvasyon sistemi\bin\Debug\rezarvasyon sistemi.exe
+C:\Users\Fatma Gülsüm\source\repos\rezarvasyon sistemi\rezarvasyon sistemi\bin\Debug\rezarvasyon sistemi.pdb
+C:\Users\Fatma Gülsüm\source\repos\rezarvasyon sistemi\rezarvasyon sistemi\obj\Debug\rezarvasyon sistemi.csprojAssemblyReference.cache
+C:\Users\Fatma Gülsüm\source\repos\rezarvasyon sistemi\rezarvasyon sistemi\obj\Debug\rezarvasyon_sistemi.Form1.resources
+C:\Users\Fatma Gülsüm\source\repos\rezarvasyon sistemi\rezarvasyon sistemi\obj\Debug\rezarvasyon_sistemi.Properties.Resources.resources
+C:\Users\Fatma Gülsüm\source\repos\rezarvasyon sistemi\rezarvasyon sistemi\obj\Debug\rezarvasyon sistemi.csproj.GenerateResource.cache
+C:\Users\Fatma Gülsüm\source\repos\rezarvasyon sistemi\rezarvasyon sistemi\obj\Debug\rezarvasyon sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Fatma Gülsüm\source\repos\rezarvasyon sistemi\rezarvasyon sistemi\obj\Debug\rezarvasyon sistemi.exe
+C:\Users\Fatma Gülsüm\source\repos\rezarvasyon sistemi\rezarvasyon sistemi\obj\Debug\rezarvasyon sistemi.pdb
